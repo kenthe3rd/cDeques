@@ -1,0 +1,11 @@
+"E:\Program Files\CLion 2017.3.4\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\OSU Comp Sci\CS 261\assignments\assignment3\Assignment_3_Instructions_S18\Assignment_3_Instructions_S18\Stack_from_Queues"
+-- The C compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/Stack_from_Queues/cmake-build-debug

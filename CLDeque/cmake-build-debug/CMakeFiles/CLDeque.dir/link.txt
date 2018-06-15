@@ -1,0 +1,3 @@
+"E:\Program Files\CLion 2017.3.4\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\CLDeque.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\CLDeque.dir/objects.a @CMakeFiles\CLDeque.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\CLDeque.dir/objects.a -Wl,--no-whole-archive  -o CLDeque.exe -Wl,--out-implib,libCLDeque.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CLDeque.dir\linklibs.rsp

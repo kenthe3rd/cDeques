@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/LLDeque/linkedList.c
+linkedList.h
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/LLDeque/linkedList.h
+assert.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/LLDeque/linkedList.h
+
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/LLDeque/linkedListMain.c
+linkedList.h
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/LLDeque/linkedList.h
+stdio.h
+-
+

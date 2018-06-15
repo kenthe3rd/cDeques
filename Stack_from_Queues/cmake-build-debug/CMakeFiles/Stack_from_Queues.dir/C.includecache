@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OSU Comp Sci/CS 261/assignments/assignment3/Assignment_3_Instructions_S18/Assignment_3_Instructions_S18/Stack_from_Queues/stack_from_queue.c
+assert.h
+-
+stdlib.h
+-
+stdio.h
+-
+
